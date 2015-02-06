@@ -1,0 +1,17 @@
+Part 1: Done
+Part 2: 
+GibHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management functionality of Git as well as adding its own features. It was created by Tom preston-Werner, Chris Wanstrath and PJ Hyett in April 2008.There are other platforms for version controlling, such as Apache Subversion, CVS and so on. I have used CVS before when I worked in a development team. but I have not touch with GitHub. It's the first time I use GitHub. And I found that GitHub was frequently used by software engineer. So I need try my best to learn it and introduce to my students.
+Part 3:
+ 
+Part 4:
+•	Repository: A place where your projects live in
+•	Commit: is like a snapshot of all the files in your project at a particular point in time. saved changes
+•	Push: push the local branch to a remote repository
+•	Branch: is the way to work on different parts of a repository at one time
+•	Fork: is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project
+•	Merge: is to bring your changes together
+•	Clone: if you want to get a copy of a project, you can clone it
+•	Pull: fetch down new data from a remote server
+•	Pull request: let you tell others about changes you've pushed to a repository on GitHub
+Part 5:
+
